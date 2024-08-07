@@ -6,7 +6,7 @@
   - Website: https://kevincunningham.co.uk
 - Repo link: [Insert Repo Link](https://github.com/doingandlearning/bbc-tdd-aug-2024)
 - Feedback link: [Feedback]()
-- Miro board: [Miro]()
+- Miro board: [Miro](https://miro.com/app/board/uXjVKryYUZo=/?share_link_id=701034237677)
 
 ## Timings:
 
