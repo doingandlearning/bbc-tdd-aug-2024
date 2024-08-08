@@ -5,7 +5,7 @@
   - Email: kevin@kevincunningham.co.uk
   - Website: https://kevincunningham.co.uk
 - Repo link: [Insert Repo Link](https://github.com/doingandlearning/bbc-tdd-aug-2024)
-- Feedback link: [Feedback]()
+- Feedback link: [Feedback](https://forms.microsoft.com/e/5JDJS7NSXx)
 - Miro board: [Miro](https://miro.com/app/board/uXjVKryYUZo=/?share_link_id=701034237677)
 
 ## Timings:
@@ -24,32 +24,38 @@ Coming from the Agile community; Test Driven Development has become one of the m
 
 ## Welcome and Introductions
 
-## TDD Discussion 
--	What is TDD?
--	Why TDD?
--	Why not TDD?
+## TDD Discussion
+
+- What is TDD?
+- Why TDD?
+- Why not TDD?
 
 ## TDD Development Cycle
--	TDD Development Cycle
--	TDD Mantra: Red/Green/Refactor
--	3 Rules of TDD
--	TDD is about Design more than Coding: Focus on the Interface
 
-## TDD Katas 
--	What are TDD Katas: Introduction 
--	Bowling Ball Kata
+- TDD Development Cycle
+- TDD Mantra: Red/Green/Refactor
+- 3 Rules of TDD
+- TDD is about Design more than Coding: Focus on the Interface
 
-## Practical 1 
--	Hands on TDD for string calculator Kata 
--	Done in groups (typically pairs)
--	Present back to other groups
+## TDD Katas
 
-## TDD & Refactoring 
--	Importance of Refactoring
--	Refactoring Patterns
--	TDD Anti Patterns
+- What are TDD Katas: Introduction
+- Bowling Ball Kata
+
+## Practical 1
+
+- Hands on TDD for string calculator Kata
+- Done in groups (typically pairs)
+- Present back to other groups
+
+## TDD & Refactoring
+
+- Importance of Refactoring
+- Refactoring Patterns
+- TDD Anti Patterns
 
 ## Practical 2 (optional)
--	Individual Practical in Own Language: Tic-Tac-Toe Kata
 
-## Close with Q&A and Round Up 
+- Individual Practical in Own Language: Tic-Tac-Toe Kata
+
+## Close with Q&A and Round Up
